@@ -7,5 +7,5 @@ Our mission is to deliver world class user experiences through cutting-edge tech
 ## Core Repos
 The core repos for the Deriv.com team are :
 - [e2e-deriv-com](https://github.com/deriv-com/e2e-deriv-com) : This repo contains the automated test suite for our end to end testing on deriv.com using Cypress.
-- [perl-Myriad](https://github.com/deriv-com/perl-Myriad) Myriad provides a framework for dealing with asynchronous, microservice-based code. It is intended for use in an environment such as Kubernetes to support horizontal scaling for larger systems.
-- [deriv-com-v2](https://github.com/deriv-com/deriv-com-v2) This repo contains all the design blocks that are used for our main websites.
+- [perl-Myriad](https://github.com/deriv-com/perl-Myriad) : Myriad provides a framework for dealing with asynchronous, microservice-based code. It is intended for use in an environment such as Kubernetes to support horizontal scaling for larger systems.
+- [deriv-com-v2](https://github.com/deriv-com/deriv-com-v2) : This repo contains all the design blocks that are used for our main websites.
